@@ -1,0 +1,9 @@
+Via: aws-1b-lj-web02.ares.lianjia.com
+Date: Wed, 04 Jan 2017 03:47:51 GMT
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Tengine/2.2.0
+Content-Type: text/html
+Set-Cookie: select_city=440300; expires=Thu, 05-Jan-2017 03:47:50 GMT; Max-Age=86400; path=/; domain=.lianjia.com
+Set-Cookie: all-lj=007e0800fb44885aa2065c6dfaaa4029; Path=/
+Set-Cookie: lianjia_ssid=7104e133-c29b-4b80-bcda-bbba1040efe3; expires=Wed, 04-Jan-17 04:17:50 GMT; Max-Age=1800; domain=.lianjia.com; path=/

@@ -1,0 +1,6 @@
+Accept-Encoding: gzip,deflate
+Accept-Language: en
+Referer: http://sz.lianjia.com/zufang/futianqu/pg1/
+Cookie: all-lj=80b391239fd880f59f779618fca39507; lianjia_uuid=399a8df1-98ef-4315-b20c-946f9d5a1a3e; lianjia_ssid=3888e883-cb56-4d43-939e-15bc34b69dff; select_city=440300
+User-Agent: Scrapy/1.2.1 (+http://scrapy.org)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8

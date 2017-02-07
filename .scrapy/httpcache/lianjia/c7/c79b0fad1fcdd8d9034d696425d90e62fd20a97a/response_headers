@@ -1,0 +1,10 @@
+Set-Cookie: select_city=440300; expires=Wed, 04-Jan-2017 16:06:33 GMT; Max-Age=86400; path=/; domain=.lianjia.com
+Set-Cookie: all-lj=59dc31ee6d382c2bb143f566d268070e; Path=/
+Set-Cookie: lianjia_ssid=a44ec066-108c-4d7c-aba6-224eb2e641dd; expires=Tue, 03-Jan-17 16:36:33 GMT; Max-Age=1800; domain=.lianjia.com; path=/
+Set-Cookie: lianjia_uuid=d527978e-b428-46fe-8fcc-3e58474b2e2d; expires=Fri, 01-Jan-27 16:06:33 GMT; Max-Age=315360000; domain=.lianjia.com; path=/
+Date: Tue, 03 Jan 2017 16:06:33 GMT
+Server: Tengine/2.2.0
+Via: jx-lj-web03.zeus.lianjia.com
+Vary: Accept-Encoding
+Content-Type: text/html
+Content-Encoding: gzip
